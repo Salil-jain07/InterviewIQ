@@ -1,0 +1,9 @@
+question,ideal_answer,keywords
+What is normalization?,Normalization is the process of reducing data redundancy and improving data integrity.,redundancy;integrity;database
+What is a primary key?,A primary key uniquely identifies each record in a table.,unique;record;table
+What is a foreign key?,A foreign key establishes relationships between tables.,relation;reference;table
+What are ACID properties?,ACID stands for Atomicity Consistency Isolation and Durability.,transaction;acid;database
+What is SQL?,SQL is a language used to manage relational databases.,query;database;language
+Difference between DELETE and TRUNCATE?,DELETE removes rows selectively while TRUNCATE removes all rows quickly.,delete;truncate;sql
+What is indexing?,Indexing improves database query performance.,index;search;performance
+What is a transaction?,A transaction is a logical unit of database operations.,commit;rollback;transaction

@@ -1,0 +1,6 @@
+question,ideal_answer,keywords
+What is an IP address?,An IP address uniquely identifies a device on a network.,network;device;address
+What is TCP?,TCP is a reliable connection-oriented communication protocol.,reliable;protocol;connection
+What is UDP?,UDP is a connectionless communication protocol.,udp;connectionless;protocol
+What is DNS?,DNS converts domain names into IP addresses.,dns;domain;ip
+What is HTTP?,HTTP is a protocol used for web communication.,web;protocol;client

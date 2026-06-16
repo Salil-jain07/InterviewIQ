@@ -1,0 +1,6 @@
+question,ideal_answer,keywords
+What is inheritance?,Inheritance allows one class to acquire properties and methods of another class.,class;inheritance;reusability
+What is polymorphism?,Polymorphism allows objects to take multiple forms through method overriding or overloading.,overriding;overloading;object
+What is encapsulation?,Encapsulation binds data and methods together and restricts direct access.,data hiding;class;object
+What is abstraction?,Abstraction hides implementation details and exposes essential features.,abstraction;interface;feature
+What is a constructor?,A constructor initializes objects when created.,object;initialize;constructor

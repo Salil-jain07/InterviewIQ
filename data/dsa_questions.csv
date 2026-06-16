@@ -1,0 +1,11 @@
+question,ideal_answer,keywords
+What is a linked list?,A linked list is a linear data structure consisting of nodes connected by pointers.,node;pointer;linear
+Difference between stack and queue?,Stack follows LIFO while queue follows FIFO.,LIFO;FIFO;data structure
+What is recursion?,Recursion is a technique where a function calls itself.,function;self;recursive
+What is a binary tree?,A binary tree is a hierarchical data structure where each node has at most two children.,tree;node;children
+What is a graph?,A graph is a collection of vertices and edges.,vertex;edge;graph
+What is dynamic programming?,Dynamic programming solves problems using stored solutions of subproblems.,optimization;subproblem;memory
+What is hashing?,Hashing maps data to fixed-size values using hash functions.,hash;key;lookup
+What is BFS?,Breadth First Search traverses nodes level by level.,graph;queue;traversal
+What is DFS?,Depth First Search explores as deep as possible before backtracking.,graph;stack;traversal
+What is time complexity?,Time complexity measures algorithm running time relative to input size.,big o;performance;complexity

@@ -1,0 +1,6 @@
+question,ideal_answer,keywords
+What is a process?,A process is a program in execution.,execution;program;process
+What is deadlock?,Deadlock occurs when processes wait indefinitely for resources held by each other.,resource;waiting;process
+What is a thread?,A thread is the smallest unit of execution within a process.,thread;execution;cpu
+What is paging?,Paging divides memory into fixed-size pages.,memory;page;ram
+What is virtual memory?,Virtual memory extends memory using disk space.,memory;disk;ram

@@ -133,8 +133,11 @@ elif st.session_state.step == "RESULT" and st.session_state.temp_result is not N
 
     st.progress(min(int(st.session_state.temp_result["score"]), 100))
 
-    st.write("### Ideal Answer")
-    st.write(question["ideal_answer"])
+    with st.expander("📝 Your Submitted Answer", expanded=True):
+        st.write(st.session_state.temp_result["answer"])
+
+    with st.expander("✅ Ideal Answer"):
+        st.write(question["ideal_answer"])
 
     if st.button("Next Question"):
 

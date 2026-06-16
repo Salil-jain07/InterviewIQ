@@ -2,8 +2,11 @@ import sqlite3
 import os
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-db_path = os.path.join(BASE_DIR, "database", "interviewiq.db")
 
+db_folder = os.path.join(BASE_DIR, "database")
+os.makedirs(db_folder, exist_ok=True)
+
+db_path = os.path.join(db_folder, "interviewiq.db")
 
 # =========================
 # CREATE TABLES
